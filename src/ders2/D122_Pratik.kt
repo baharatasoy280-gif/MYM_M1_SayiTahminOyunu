@@ -5,8 +5,8 @@ fun main() {
 
     println(ismim)
 
-    var oyunPuani = 0;
-    oyunPuani = 100;
+    var oyunPuani = 0
+    oyunPuani = 100
     println(oyunPuani)
 
 
