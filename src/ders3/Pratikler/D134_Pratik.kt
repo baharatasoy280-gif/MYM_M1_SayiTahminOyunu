@@ -8,7 +8,7 @@ fun main() {
     print("Yaşınızı giriniz:")
     val yas = readln().toInt()
 
-    println("Merhaba\uD83D\uDC4B $isim demek $yas yaşındasın  ")
+    println("Merhaba $isim demek $yas yaşındasın  ")
 
 
 }
