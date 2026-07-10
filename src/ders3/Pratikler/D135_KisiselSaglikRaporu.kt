@@ -27,7 +27,7 @@ fun main() {
            30,0 - 34,9: 1. Derece Obezite
            35,0 - 39,9: 2. Derece Obezite
            40,0 ve üzeri: 3. Derece Obezite (Morbid Obezite) 
-       """.trimIndent()//trimIndent() soldaki boşlukları otomatik siler
+       """.trimIndent()//trimIndent() soldaki boşlukları otomatik silerr
     )
 
 
