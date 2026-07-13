@@ -19,7 +19,7 @@ fun main() {
 
     komutanCani -= aldiginHasar
     println("Aldığın Hasar: $aldiginHasar")
-    println("\uD83D\uDDE1\uFE0FDüşman atağa geçti! Kalan canın: $komutanCani")
+    println("Düşman atağa geçti! Kalan canın: $komutanCani")
 
 
 
