@@ -1,4 +1,4 @@
-package ders3.Pratikler
+package ders3.pratikler
 
 fun main() {
 

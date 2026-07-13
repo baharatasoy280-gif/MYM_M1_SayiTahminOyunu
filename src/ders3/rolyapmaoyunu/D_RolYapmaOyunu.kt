@@ -1,4 +1,4 @@
-package ders3.RolYapmaOyunu
+package ders3.rolyapmaoyunu
 
 fun main() {
 

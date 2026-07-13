@@ -1,4 +1,4 @@
-package ders3.Pratikler
+package ders3.pratikler
 
 fun main() {
 
@@ -9,10 +9,11 @@ fun main() {
     print("Boyunuzu giriniz:")
     val boy = readln().toDouble()
 
-    print("Kilonuzu giriniz:")
+    print("Kilonuzu  giriniz:")
     val kilo = readln().toDouble()
 
     val vki = kilo / (boy * boy)
+
 
     val formatliVki = "%.2f".format(vki)
 
