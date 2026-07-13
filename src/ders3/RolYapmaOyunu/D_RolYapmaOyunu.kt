@@ -1,4 +1,4 @@
-package ders3.Pratikler
+package ders3.RolYapmaOyunu
 
 fun main() {
 
