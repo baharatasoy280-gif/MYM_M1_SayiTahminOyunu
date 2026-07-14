@@ -1,8 +1,6 @@
 package ders3.pratikler
 
 fun main() {
-
-
     println("--- 🐉 EFSANEVİ EJDERHA SAVAŞI SİMÜLATÖRÜ 🐉 ---")
 
     var ejderhaCani = 1000.0
