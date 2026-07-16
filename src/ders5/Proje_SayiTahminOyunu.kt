@@ -3,7 +3,7 @@ package ders5
 fun main() {
 
 
-    println("✨\u200BSAYI TAHMİN OYUNUNA HOŞGELDİNİZ✨\u200B")
+    println("SAYI TAHMİN OYUNUNA HOŞGELDİNİZ✨\u200B")
 
     print("Tahminizi giriniz: ")
     val rastgeleSayi = (1..100).random()
