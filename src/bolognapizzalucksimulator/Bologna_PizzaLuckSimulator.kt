@@ -34,6 +34,6 @@ fun main() {
     println("\n--- 📜 ORDER SUMMARY ---")
     println(" $name, $pizzaType pizza is ready .")
     println("Total Due: $formatPrice Euro")
-    println("Arrivederci! 👋")
+    println("Arrivederci! ")
 
 }
